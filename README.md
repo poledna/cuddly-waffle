@@ -36,11 +36,11 @@ Ordered lists:
 
 ### Images
 
-####Local Image
+#### Local Image
 
 ![Firefighter](images/image.jpg)
 
-####Internet Linked Image
+#### Internet Linked Image
 
 ![FiRetOCaT]("https://octodex.github.com/sentrytocat")
 
