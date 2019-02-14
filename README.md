@@ -47,14 +47,14 @@ Ordered lists:
 ## BlackQuotes
 	>A comment in the pull request!!!
 	pull requests are not automatically accepted!
---- SUPER ULTRA MEGA POWER DIVEDER ---
+--- SUPER ULTRA MEGA POWER DIViDER ---
 ## Dividers
 	>Ops after them dividers!
 ### Tables
 
-X|Values | Ultra Value
----|Nah| Ohhh
----|---|---
+X  |Values | Ultra Value
+---|Nah    | Ohhh       
+---|-------|------------
 
 
 But Markdowns aren't universal
