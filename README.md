@@ -51,11 +51,11 @@ Ordered lists:
 ## Dividers
 	> Ops after them dividers!
 ### Tables
-
-X  |Values | Ultra Value
-123|Nah    | Ohhh       
----|-------|------------
-
+| Tables        | Examples      | Cool  |
+| ------------- |:-------------:| -----:|
+| from          | the           |       |
+|               | cheat list    |       |
+|               |      empty    |       |
 
 But Markdowns aren't universal
 
