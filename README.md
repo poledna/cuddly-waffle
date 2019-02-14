@@ -45,15 +45,15 @@ Ordered lists:
 ![FiRetOCaT]("https://octodex.github.com/sentrytocat")
 
 ## BlackQuotes
-	>A comment in the pull request!!!
+	> A comment in the pull request!!!
 	pull requests are not automatically accepted!
---- SUPER ULTRA MEGA POWER DIViDER ---
+--- ---
 ## Dividers
-	>Ops after them dividers!
+	> Ops after them dividers!
 ### Tables
 
 X  |Values | Ultra Value
----|Nah    | Ohhh       
+123|Nah    | Ohhh       
 ---|-------|------------
 
 
